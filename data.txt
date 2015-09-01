@@ -22,6 +22,6 @@ teacher2$owner=0
 teacher3$owner=0
 teacher4$owner=0
 
-home-eli$eli="מה+קורה?"
+home-eli$eli="מה+קורה?+איך+היה+החופש?"
 
 // + = space

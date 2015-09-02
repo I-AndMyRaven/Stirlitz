@@ -1,6 +1,6 @@
 sifriya1$
 ספריה-ראשי
-="test"
+="טאסט... עובד"
 sifriya-class$
 משתמש
 =0
@@ -21,7 +21,5 @@ teacher1$owner=0
 teacher2$owner=0
 teacher3$owner=0
 teacher4$owner=0
-
-home-eli$eli="מה+קורה?+איך+היה+החופש?"
 
 // + = space

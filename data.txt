@@ -1,6 +1,6 @@
 sifriya1$
 ספריה-ראשי
-=1
+="test"
 sifriya-class$
 משתמש
 =0

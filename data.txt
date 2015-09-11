@@ -1,6 +1,14 @@
+0 = unblock
+1 = block
+2 = destroy
+3 = shutdown
+4 = remote
+
+========================
+
 sifriya1$
 ספריה-ראשי
-="טאסט... עובד"
+=0
 sifriya-class$
 משתמש
 =0

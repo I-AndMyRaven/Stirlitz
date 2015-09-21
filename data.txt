@@ -12,6 +12,7 @@ sifriya1$
 sifriya-class$
 משתמש
 =0
+sifriya-class$uhb=0
 sifri2$
 ספרנית
 =0

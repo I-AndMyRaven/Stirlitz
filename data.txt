@@ -4,6 +4,10 @@
 3 = shutdown
 4 = remote
 
+**********************
+'+' = 'space'
+**********************
+
 ========================
 
 sifriya1$
@@ -31,5 +35,3 @@ teacher2$owner=0
 teacher3$owner=0
 teacher4$owner=0
 desktop-irv31c1$asi="אני+רואה+אותך"
-
-// '+' = 'space'

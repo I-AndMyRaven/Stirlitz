@@ -1,11 +1,12 @@
-0 = unblock
-1 = block
-2 = stop
-3 = shutdown
-4 = remote
+0   = unblock
+1   = block
+2   = stop
+3   = shutdown
+4   = remote
 
 **********************
-'+' = 'space'
+"aaa" = text
+"a+a" = space
 **********************
 
 ========================

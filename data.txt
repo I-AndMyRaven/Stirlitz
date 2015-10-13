@@ -34,4 +34,4 @@ teacher1$owner=0
 teacher2$owner=0
 teacher3$owner=0
 teacher4$owner=0
-desktop-irv31c1$asi="אני+רואה+אותך"
+desktop-irv31c1$asi=1

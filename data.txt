@@ -24,7 +24,7 @@ sifri2$
 sifriya-class$administrator=0
 multipointsif$sifuser1=0
 multipointsif$sifuser2=0
-multipointsif$sifuser3=0
+multipointsif$sifuser3=1
 multipointsif$sifuser4=0
 multipointsif$sifuser5=0
 multipointsif$sifuser6=0

@@ -31,9 +31,9 @@ multipointsif$sifuser6=0
 multipointsif$sifuser7=0
 multipointsif$sifuser8=0
 multipointsif$sifuser9=0
-teacher1$owner=0
-teacher2$owner=0
-teacher3$owner=0
-teacher4$owner=0
+teacher1$owner=1
+teacher2$owner=1
+teacher3$owner=1
+teacher4$owner=1
 
 desktop-irv31c1$asi=1

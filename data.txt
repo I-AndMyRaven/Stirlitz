@@ -35,5 +35,13 @@ teacher1$owner=0
 teacher2$owner=0
 teacher3$owner=0
 teacher4$owner=0
+multipointsmall$suser1=0
+multipointsmall$suser2=0
+multipointsmall$suser3=0
+multipointsmall$suser4=0
+multipointsmall$suser5=0
+multipointsmall$suser6=1
+multipointsmall$suser7=0
+multipointsmall$suser8=0
 
 desktop-irv31c1$asi=0

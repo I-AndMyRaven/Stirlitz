@@ -40,8 +40,10 @@ multipointsmall$suser2=0
 multipointsmall$suser3=0
 multipointsmall$suser4=0
 multipointsmall$suser5=0
-multipointsmall$suser6="I+Am+The+Boss!"
+multipointsmall$suser6=1
 multipointsmall$suser7=0
 multipointsmall$suser8=0
+computername$username="This i
+s a test!"
 
 desktop-irv31c1$asi=0

@@ -40,7 +40,7 @@ multipointsmall$suser2=0
 multipointsmall$suser3=0
 multipointsmall$suser4=0
 multipointsmall$suser5=0
-multipointsmall$suser6=1
+multipointsmall$suser6=0
 multipointsmall$suser7=0
 multipointsmall$suser8=0
 
